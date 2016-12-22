@@ -10,6 +10,8 @@ unpacking/parsing it first, while still having great forwards/backwards compatib
 
 **Go to our [landing page][] to browse our documentation.**
 
+## Compile
+*compiler project to browse [Build doc](https://github.com/brokge/flatbuffers/blob/master/build.md) *
 ## Supported operating systems
 * Android
 * Windows
